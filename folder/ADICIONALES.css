@@ -1,0 +1,23 @@
+img{
+    
+    border-radius: 0.1cm;
+   margin-right: 15px;
+    float: left;
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+body{
+    margin: 25px;
+    
+   
+     text-align: justify;
+    border-radius: 155px;
+   color: white;
+    font-family: 'Roboto', sans-serif;
+   background-color: rgb(129, 54, 3);
+}
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(133, 53, 0);
+}
